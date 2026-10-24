@@ -1,0 +1,2 @@
+# StudentManagementSystem
+Practice only
